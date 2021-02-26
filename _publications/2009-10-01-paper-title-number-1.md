@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Farmer forecasts: Impacts of seasonal rainfall expectations on agricultural decision-making in Sub-Saharan Africa"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
-
+date: 2020-10-09
+venue: 'Climate Risk Management'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S2212096320300371'
+citation: 'Guido, Z., Zimmer, A., Lopus, S., Gower, D., Waldman, K., Krell, N., Sheffield, J., Caylor, K., Evans, T. (2020). &quot;Farmer forecasts: Impacts of seasonal rainfall expectations on agricultural decision-making in Sub-Saharan Africa.&quot; <i>Climate Risk Management 1</i>. 30(100247).'
+--
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Guido, Z., Zimmer, A., Lopus, S., Gower, D., Waldman, K., Krell, N., Sheffield, J., Caylor, K., Evans, T. (2020). "Farmer forecasts: Impacts of seasonal rainfall expectations on agricultural decision-making in Sub-Saharan Africa" <i>Climate Risk Management 1</i>. 30(100247).
