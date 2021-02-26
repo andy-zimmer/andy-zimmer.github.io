@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -85,9 +85,9 @@ author:
   bio              : "PhD Student @ University of Arizona"
   location         : "Tucson, Arizona, USA"
   employer         :
-  pubmed           : # ""
+  pubmed           : 
+  email            : "azimmer@email.arizona.edu
   googlescholar    : "https://scholar.google.com/citations?user=35RDM5kAAAAJ&hl=en"
-  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
