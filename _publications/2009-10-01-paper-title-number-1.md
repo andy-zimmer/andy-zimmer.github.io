@@ -1,8 +1,7 @@
 ---
 title: "Farmer forecasts: Impacts of seasonal rainfall expectations on agricultural decision-making in Sub-Saharan Africa"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2020-10-09-paper-title-number-1
 date: 2020-10-09
 venue: 'Climate Risk Management'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2212096320300371'
